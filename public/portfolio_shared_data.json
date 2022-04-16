@@ -1,8 +1,8 @@
 {
     "basic_info": {
       "name": "Jason Wilson",
-      "titles": [ "Software Developer" ],
-      "social": [
+      "titles": [ "Software Engineer | Electronics Systems Specialist | AF Veteran" ],
+      "social": [ 
         {
           "name": "github",
           "url": "https://github.com/WilsonJhub",
@@ -14,7 +14,7 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "profilePic.jpg"
     },
     "skills": {
       "icons": [
